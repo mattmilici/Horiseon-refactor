@@ -15,7 +15,7 @@ Hello! I highlighted a majority of the updates I made below to the starting file
      - Added <nav> for the nav bar.
      - Added <aside> for the right column.
      - Added <section>'s for every grouping.
-     - Footing already existing so no change there.
+     - Added <footer> to the last section.
 
    - Added alt descriptions for all images... Incase any image isn't populated on a user screen.
    - I noticed an img tab had an opening and closing tag. We did not need the closing tab because images are self-closing.
