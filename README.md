@@ -1,5 +1,31 @@
 # Horiseon-refactor
 
+Introduction
+
+Horiseon is a SEO (Search Enginer Optimization) company based out of San Diego. Our main goal is to improve our customers online presents by helping them reach more customers.
+
+Navigating our Website
+
+1. Header
+
+   - Image header shows our team oriented culture.
+
+   - Provides a short description of our three areas of expertise.
+
+2. Main Body
+
+   - Provides a short description of our three areas of expertise.
+   - You can access each section of the body by scrolling down the page OR by using the links within the Navbar.
+
+3. Aside
+
+   - Additional detail on how we help our customers.
+
+4. Footer
+   - Copy right and closing detail.
+
+ADDITIONAL COMMENTS
+
 Improving the readability and code.
 
 # Matt Milici Comments

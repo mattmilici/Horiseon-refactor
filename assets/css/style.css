@@ -90,9 +90,7 @@ a {
     color: #ffffff;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -110,9 +108,7 @@ p.sidebar {
 
 /* --------------------- Main Content --------------------- */
 
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,9 +117,7 @@ p.sidebar {
     color: #ffffff;
 }
 
-#search-engine-optimization img,
-#online-reputation-management img,
-#social-media-marketing img {
+.content img {
     max-height: 200px;
 }
 
