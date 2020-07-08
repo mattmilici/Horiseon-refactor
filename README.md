@@ -2,14 +2,13 @@
 
 Introduction
 
-Horiseon is a SEO (Search Enginer Optimization) company based out of San Diego. Our main goal is to improve our customers online presents by helping them reach more customers.
+Horiseon is a SEO (Search Engine Optimization) company based out of San Diego. Our main goal is to improve our customers online presents by helping them reach more customers.
 
 Navigating our Website
 
 1. Header
 
    - Image header shows our team oriented culture.
-
    - Provides a short description of our three areas of expertise.
 
 2. Main Body
@@ -49,5 +48,5 @@ Hello! I highlighted a majority of the updates I made below to the starting file
 2) CSS Clean Up
 
    - I removed alot of the repetition in the CSS file. There were a lot of declarations that had the same proporties and values. I was able to group these together using a comma. This resulted in less code. Woo!
-   - I grouped the CSS Selectors together based off their layout. For example, Everything that impacts the Main Body is grouped together under the header "----- Main Body ---------". this helps understand what elements are going to be impacted when propterty values change.
+   - I grouped the CSS Selectors together based off of their layout. For example, everything that impacts the Main Body is grouped together under the header "----- Main Body ---------". This helps understand what elements are going to be impacted when propterty values change.
    -
